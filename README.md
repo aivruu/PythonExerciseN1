@@ -1,2 +1,2 @@
 # PythonExerciseN1
-A Class Exercise of Java made on Pythonm
+A programming exercise of my class day made on the Python language, originally made on Java.
